@@ -6,7 +6,7 @@
 - Open <system.xml> that you already made a backup
 - Copy the line <videoCardDescription>[YOUR GRAPHIC CARD BRAND AND MODEL]</videoCardDescription> and paste it into <system.xml> in RDR2 Settings Folder
 - In STEAM, do RIGHT CLICK in RDR2 and go to "Properties"
-- In <Launch Options>, write the following commands: <-ignorepipelinecache>
+- In "Launch Options", write the following commands: <-ignorepipelinecache>
 
 The Graphic Card Brand and Model need to looks like <NVIDIA GeForce RTX 3060> for NVIDIA Users or <AMD Radeon RX 6700 XT> for AMD Users, just edit this line for your model, copy your model from the <system.xml> backup and paste into <system.xml> that already are in the settings folder of RDR2.
 
