@@ -1,10 +1,10 @@
 - Download the Settings.zip
 - Go to the RDR2 settings folder: "C:\Users\[YOUR USER]\Documents\Rockstar Games\Red Dead Redemption 2\Settings"
 - Delete all the files that already have this folder, just make a backup of the file <system.xml> for next step
-- Copy the content of the folder Settings you've been unzipped and paste in the next route of your computer: <C:\Users\[YOUR USER]\Documents\Rockstar Games\Red Dead Redemption 2\Settings>
+- Copy the content of the folder Settings you've been unzipped and paste in the next route of your computer: "C:\Users\[YOUR USER]\Documents\Rockstar Games\Red Dead Redemption 2\Settings"
 - Open <system.xml> that you already copyed
 - Open <system.xml> that you already made a backup
-- Copy the line "<videoCardDescription>[YOUR GRAPHIC CARD BRAND AND MODEL]</videoCardDescription>" and paste it into <system.xml> in RDR2 Settings Folder
+- Copy the line "videoCardDescription>[YOUR GRAPHIC CARD BRAND AND MODEL]</videoCardDescription" and paste it into <system.xml> in RDR2 Settings Folder
 - In STEAM, do RIGHT CLICK in RDR2 and go to "Properties"
 - In "Launch Options", write the following commands: <-ignorepipelinecache>
 
